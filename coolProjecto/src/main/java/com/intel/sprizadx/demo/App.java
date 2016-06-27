@@ -9,7 +9,8 @@ public class App
     public static void main( String[] args )
     {
     	String name = "Taha Pirzada";
-        System.out.println( name +" says Hello World!!" );
+	int age = 23;
+        System.out.println( name +" says Hello World!! and his age is "+age );
 	System.out.println("The crappiest line ever...");
     }
 }
